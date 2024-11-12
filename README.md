@@ -29,8 +29,7 @@
 
 ### 📫 How to reach me
 - 📍 Location: Frankfurt am Main, Germany
-- ✉️ Email: [work.petrova.daria@gmail.com](mailto:work.petrova.daria@gmail.com)
-- 💬 Telegram: [t.me/work.petrova.daria](https://t.me/work.petrova.daria)
+- 💬 Telegram: [t.me/work.petrova.daria](https://t.me/nastyavolkova)
 
 ---
 
