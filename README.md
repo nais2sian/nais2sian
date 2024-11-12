@@ -10,7 +10,7 @@
 - 🌟 I love creating new things or improving existing ones, turning them into high-quality products that users enjoy.
 - 📚 I'm constantly learning to enhance my skills and expand my knowledge.
 - 🤝 I'm looking for a team where we can build something meaningful together.
-- 🔍 Currently, I'm actively seeking job opportunities. [Here’s my resume](#https://www.linkedin.com/in/anastasiia-volkova-110559297/).
+- 🔍 Currently, I'm actively seeking job opportunities. [Here’s my resume](https://www.linkedin.com/in/anastasiia-volkova-110559297/).
 
 ---
 
@@ -43,7 +43,7 @@
 ### 💡 Fun Facts
 - 🎨 I’m a huge fan of minimalist web design.
 - 🚀 I love learning about new technologies and experimenting with creative coding projects.
-- 🐱 I’m a cat lover and enjoy spending my free time with my furry friend.
+- 📸 I love photography and everything connected with it.
 
 ---
 
