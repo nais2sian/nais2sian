@@ -38,7 +38,6 @@
 ### 📌 Pinned Projects
 
 #### [My Slider](https://my-slider-beta.vercel.app)
-![My Slider screenshot](https://via.placeholder.com/300x150?text=My+Slider)
 Простой и адаптивный слайдер, рендерящийся на сервере (SSR).  
 **Стек**: Next.js, Tailwind, TypeScript  
 - [Исходный код](https://github.com/nais2sian/my-slider)
