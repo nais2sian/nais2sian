@@ -37,16 +37,14 @@
 
 ### 📌 Pinned Projects
 
-#### [Stellar Burgers](https://stellar-burgers-tau.vercel.app/)
-A burger builder app that lets you move ingredients and place an order.
-**Стек**: React, TypeScript, Redux Toolkit, Webpack  
+#### [Stellar Burgers](https://stellar-burgers-tau.vercel.app/) - A burger builder app that lets you move ingredients and place an order.
+**Tech Stack**: React, TypeScript, Redux Toolkit, Webpack  
 - [Source Code](https://github.com/nais2sian/stellar-burgers)
 - [Demo](https://stellar-burgers-tau.vercel.app/)
 
 
-#### [My Slider](https://my-slider-beta.vercel.app)
-Simple and responsive server rendered (SSR) slider.
-**Стек**: Next.js, Tailwind, TypeScript  
+#### [My Slider](https://my-slider-beta.vercel.app) - Simple and responsive server rendered (SSR) slider.
+**Tech Stack**: Next.js, Tailwind, TypeScript  
 - [Source Code](https://github.com/nais2sian/my-slider)
 - [Demo](https://my-slider-beta.vercel.app)
 
