@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Anastasiia 👋</h1>
 
 <p align="center">
-  <i>A passionate Frontend Developer from Russia 🖥️</i>
+  <i>Front‑end developer with a pinch of back‑end experience and a knack for designing information systems🖥️</i>
 </p>
 
 ---
