@@ -10,7 +10,6 @@
 - 🌟 I love creating new things or improving existing ones, turning them into high-quality products that users enjoy.
 - 📚 I'm constantly learning to enhance my skills and expand my knowledge.
 - 🤝 I'm looking for a team where we can build something meaningful together.
-- 🔍 Currently, I'm actively seeking job opportunities. [Here’s my resume](https://www.linkedin.com/in/anastasiia-volkova-110559297/).
 
 ---
 
