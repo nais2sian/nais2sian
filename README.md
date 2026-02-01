@@ -1,19 +1,19 @@
-<h1 align="center">Hello there, I'm Anastasiia 👋</h1>
+<h1 align="center">Hello there, I'm Anastasiia </h1>
 
 <p align="center">
-  <i>Front‑end developer with a pinch of back‑end experience and a knack for designing information systems🖥️</i>
+  <i>Front‑end developer with a pinch of back‑end experience and a knack for designing information systems</i>
 </p>
 
 ---
 
-### 💼 About Me
-- 🌟 I love creating new things or improving existing ones, turning them into high-quality products that users enjoy.
-- 📚 I'm constantly learning to enhance my skills and expand my knowledge.
-- 🤝 I'm looking for a team where we can build something meaningful together.
+### About Me
+- I like creating new things or improving existing ones, turning them into high-quality products that users enjoy
+- I like seeing people use my apps
+- I'm constantly learning to enhance my skills and expand my knowledge
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -28,13 +28,13 @@
 
 ---
 
-### 📫 How to reach me
-- 📍 Location: Frankfurt am Main, Germany
-- 💬 Telegram: (https://t.me/nastyavolkova)
+### How to reach me
+- Location: Frankfurt am Main, Germany
+- Telegram: (https://t.me/nastyavolkova)
 
 ---
 
-### 📌 Pinned Projects
+### Pinned Projects
 
 
 #### [Stellar Burgers](https://stellar-burgers-tau.vercel.app/) - A burger builder app that lets you move ingredients and place an order.
@@ -55,21 +55,21 @@ Tech Stack: TypeScript, Webpack
 
 ---
 
-### 💡 Fun Facts
-- 🎨 I’m a huge fan of minimalist web design.
-- 🚀 I love learning about new technologies and experimenting with creative coding projects.
-- 📸 I love photography and everything connected with it.
+### Fun Facts
+- I’m a huge fan of minimalist web design.
+- I love learning about new technologies and experimenting with creative coding projects.
+- I love photography and everything connected with it.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nais2sian&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 🌐 Let's Connect!
+### Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/anastasiia-volkova-110559297/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
