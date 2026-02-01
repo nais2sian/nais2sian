@@ -62,13 +62,6 @@ Tech Stack: TypeScript, Webpack
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nais2sian&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 ### Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/anastasiia-volkova-110559297/" target="_blank">
